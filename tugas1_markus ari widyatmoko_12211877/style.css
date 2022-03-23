@@ -6,7 +6,6 @@
 
 body{
 	background-color:#9ed3d4;
-	background-image: ;
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -109,7 +108,7 @@ article a{
 	color: #636363;
 }
 
-article h1 a{
+article h2 a{
 	text-decoration: none;
 	text-align: center;
 }
